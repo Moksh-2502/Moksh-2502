@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moksh
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python
+- 👀 AI and Ml developer 
+- ✨visit me on https://portfolio-iota-ten-60.vercel.app/
 - 📫 How to reach me mokshmdg40@gmail.com
 
 <!---
