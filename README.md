@@ -1,7 +1,7 @@
 # Hi there, I'm Moksh Mehdiratta 👋
 
 ## About Me
-I'm a passionate developer with expertise in full-stack, blockchain, and AI technologies. Currently working on AI Augmented Features at Airpay via Crossover and developing token launchpad solutions.
+I'm a passionate developer with expertise in full-stack, blockchain, and AI technologies. Currently working on AI Augmented Features at Trilogy via Crossover and developing token launchpad solutions.
 
 [![GitHub followers](https://img.shields.io/github/followers/moksh-2502?label=Follow&style=social)](https://github.com/moksh-2502)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moksh-mehndiratta-a70989297/)
