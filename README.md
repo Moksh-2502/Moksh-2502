@@ -1,49 +1,81 @@
-# Hi there, I'm Moksh Mehdiratta 👋
+# 👋 Hi there, I'm Moksh Mehndiratta
 
-## About Me
-I'm a passionate developer with expertise in full-stack, blockchain, and AI technologies. Currently working on AI Augmented Features at Trilogy via Crossover and developing token launchpad solutions.
+🚀 Passionate Full-Stack Developer | 🧠 AI Engineer | ⛓️ Blockchain Enthusiast  
+Currently working on AI-augmented features at **Trilogy (via Crossover)** and building production-grade tools that blend AI, full-stack engineering, and Web3 technologies.
 
-[![GitHub followers](https://img.shields.io/github/followers/moksh-2502?label=Follow&style=social)](https://github.com/moksh-2502)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moksh-mehndiratta-a70989297/)
-[![Email](https://img.shields.io/badge/Email-mokshmdg40%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mokshmdg40@gmail.com)
+---
 
-## 🔭 Current Projects I am working on
-- **NeuroSync**:Making a second brain for developers who has context for all the repos you or your team ever worked on 
+## 🔭 Current Projects
 
+- **🧠 NeuroSync**  
+  *Second brain for developers* — keeps track of context across all your team’s repositories.
+
+- **🧪 KBFS**  
+  Secure knowledge-based file system to manage AI-augmented documentation and insights.
+
+- **🤖 Interview Bot & Cortex**  
+  Contributed to AI-driven candidate evaluation and career insights platforms at Crossover.
+
+- **🚀 Brainlift**  
+  AI coaching assistant designed to enhance productivity and team growth.
+
+---
 
 ## 🛠️ Skills & Technologies
-```
-Languages:       Python, JavaScript/TypeScript, Java, C++, C, Go/Ruby, HTML/CSS
-Blockchain:      Ethereum, Solidity, Smart Contracts, Hardhat, WalletConnect, Ethers.js, Wagmi
-Frontend:        React, Next.js, Angular, Flutter, UI/UX Design
-Backend:         Node.js (Express, Nest.js), Flask, FastAPI
-AI/ML:           TensorFlow, Deep Neural Networks, NLP, Computer Vision
-Databases:       MongoDB, MySQL, PostgreSQL
-DevOps:          Docker, Kubernetes, AWS Lambda, GitHub Actions
-Tools:           Git, GitHub, Linux, Android Studio, Postman, Jira
-Soft Skills:     Analytical Thinking, Problem Solving, Performance Optimization
-```
 
+**Languages**:  
+`Python` · `JavaScript` / `TypeScript` · `Java` · `C++` · `Go` · `Ruby` · `C` · `HTML/CSS`
 
-## 🚀 Projects
+**Frontend**:  
+`React` · `Next.js` · `Angular` · `Flutter` · `UI/UX Design`
 
-### ARTEMIS
-Mobile app for women safety using SOS, cloud video sync, and gesture-triggered alerts.  
-**Tech**: Dart, Flutter, Python, YOLO v5, TensorFlow
+**Backend**:  
+`Node.js (Express, NestJS)` · `Flask` · `FastAPI`
 
-### Moneyland
-Platform for stock tips and intra shares for pooled investment and trade.  
+**Blockchain**:  
+`Solidity` · `Ethereum` · `Hardhat` · `WalletConnect` · `Ethers.js` · `Wagmi`
+
+**AI/ML**:  
+`TensorFlow` · `Deep Neural Networks` · `LangChain` · `Dataiku` · `NLP` · `Computer Vision`
+
+**Databases**:  
+`MongoDB` · `MySQL` · `PostgreSQL`
+
+**DevOps / Tools**:  
+`Docker` · `Kubernetes` · `AWS Lambda` · `GitHub Actions` · `Linux` · `Postman` · `Jira`
+
+---
+
+## 💡 Featured Projects
+
+### 🔐 [ARTEMIS](https://github.com/Mayank4352/Security)  
+Women’s safety app with gesture-based SOS triggers and cloud video sync.  
+**Tech**: Flutter, Firebase, YOLOv8, Python
+
+### 💸 [MoneyLand](https://github.com/Moksh-2502/MoneyLand)  
+Tokenized investment platform for pooled intra-day trading.  
 **Tech**: Flask, Python, Solidity, Hardhat
 
-### HealthBound
-AI-based disease predictor achieving 2,000+ conditions at 90% accuracy.  
-**Tech**: Python, TensorFlow, TensorBoard, Flask
+### 🧬 [HealthBound](https://github.com/Moksh-2502/Hackathon)  
+AI-powered disease predictor with over 2,000 supported conditions.  
+**Tech**: TensorFlow, Flask
 
-### RAG_KT-FLOW
-Decentralized local Blockchain Augmented Generation (BAG) system for developer knowledge transfer.  
-**Tech**: Solidity, Hardhat, Python, Go
+### 📚 [ragktflow](https://github.com/Moksh-2502/ragktflow)  
+Local RAG (Retrieval-Augmented Generation) system for dev knowledge sharing.  
+**Tech**: LangChain, FAISS, FastAPI, React
 
-### Token Launchpad
-NLP model that identifies passages in Python Markdown with configurable tag/limit pairs and live contract preview.  
-**Tech**: Solidity, Hardhat, Ethers.js, Wagmi, React (Next.js), WalletConnect
+### 🧪 [Token Launchpad](https://github.com/Moksh-2502/token-launchpad)  
+Create configurable ERC-20 contracts with live previews and tagging logic.  
+**Tech**: Solidity, Ethers.js, Wagmi, React (Next.js)
 
+---
+
+## 📬 Connect With Me
+
+- [GitHub](https://github.com/Moksh-2502)
+- [LinkedIn](https://www.linkedin.com/in/moksh-mehndiratta-a70989297/)
+- 📧 mokshmdg40@gmail.com
+
+---
+
+✨ Always learning. Always building. Let’s connect and innovate!
