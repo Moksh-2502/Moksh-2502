@@ -25,7 +25,7 @@ Secure knowledge-based file system for team memory and AI-driven documentation.
 Private for obvious puposes
 
 ### Interview Bot  
-AI-powered interview evaluator used internally at Crossover.  
+AI-powered interview evaluator.  
 **GitHub**: [Interview Bot](https://github.com/Moksh-2502/interviewer)
 
 
