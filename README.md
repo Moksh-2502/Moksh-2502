@@ -9,7 +9,7 @@ Currently working on AI-augmented features at Trilogy (via Crossover), building 
 
 ### NeuroSync  
 A second brain for developers – tracks and understands context across all your and your team's repositories.  
-**Tech**: LangChain, FastAPI, TypeScript, PostgreSQL, GitHub APIs
+**Tech**: LangChain, FastAPI, TypeScript, PostgreSQL, GitHub APIs [demo](https://neuro-sync-ogta.vercel.app/)
 ### Cortex  
 ML-powered career coaching and progression tracking platform.  
 ---
